@@ -72,7 +72,7 @@ pipeline {
                 }
             }
 
-       // }
+       }
 
        // stage("Trivy Scan") {
        //     steps {
